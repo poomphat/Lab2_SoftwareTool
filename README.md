@@ -5,8 +5,8 @@
 
 **Name** : Poomphat Wawongmoon
 
-> king mongkut's institute of technology ladkrabang
+> [king mongkut's institute of technology ladkrabang](https://www.kmitl.ac.th)
 
 ```
-print("hello world")
+print(“Hello Ladkrabang”)
 ```
